@@ -38,7 +38,7 @@ This project builds a **secure and scalable VPC infrastructure on AWS** using **
 ![image](https://github.com/user-attachments/assets/575b8b60-7436-4707-a2e1-9f44785b9fb6)
 
 
-###Initialize Terraform & Create Workspace:
+##Initialize Terraform & Create Workspace:
 
 terraform init
 terraform plan
