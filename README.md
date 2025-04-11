@@ -53,5 +53,3 @@ terraform apply
 🔧 Proxy Apache Setup
 🌍 Public DNS Load Balancer Output
 ☁️ S3 State File Storage
-نسخ
-تحرير
