@@ -24,16 +24,6 @@ This project builds a **secure and scalable VPC infrastructure on AWS** using **
 
 ---
 
-## ✅ Requirements
-
-- [Terraform v1.0+](https://www.terraform.io/downloads)
-- AWS CLI configured
-- An S3 bucket + DynamoDB table for remote state
-- A key pair for SSH access to EC2s
-- Git
-
----
-
 ## 📁 Project Structure
 ![image](https://github.com/user-attachments/assets/575b8b60-7436-4707-a2e1-9f44785b9fb6)
 
