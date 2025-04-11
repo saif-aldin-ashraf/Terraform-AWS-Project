@@ -35,7 +35,6 @@ This project builds a **secure and scalable VPC infrastructure on AWS** using **
 ---
 
 ## 📁 Project Structure
-
 TERRAFORM-PROJECT/
 │
 ├── .gitignore                   # Git ignore file
